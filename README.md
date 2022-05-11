@@ -11,11 +11,11 @@
  
   Je m'appele Guilherme Tosi, et j'etudie Systems de l'information à l'Université de São Paulo (USP) à São Carlos. Je suis en deuxième année, et actualliment ma volonté est étudier Python, C, Javascript, mais plus que ça, je veux étudier front-end languages, back-end languages, pour entrer dans un développeur full stack, dans le future.
   
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on a social project that calls 'Projeto Pequeno Cidadão', giving math classes for children.
 - 🌱 I’m currently learning Python, C, Javascript, SQL.
-- 🤔 I’m looking for help with learn back-end, front-end languages, for gt into a Fullstack developper, in the future.
+- 🤔 I’m looking for help with learn back-end, front-end languages, for get into a Fullstack developper, in the future.
 - ⚡ Fun fact: I started study progammation only after I enetered at Universisdade de São Paulo (USP).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,6 +27,12 @@
  <a href = "mailto:galdiniguilherme@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  <a href="https://instagram.com/tosiapenas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://wa.me/5519996380863" target="_blanck"><img arc="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://www.facebook.com/guilherme.galdini.7/" target="_blank"><img src ="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://t.me/Tosi2506" target="_blank"><img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
