@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on a social project that calls 'Projeto Pequeno Cidadão', giving math classes for children.
 - 🌱 I’m currently learning Python, C, Javascript, SQL.
 - 🤔 I’m looking for help with learn back-end, front-end languages, for get into a Fullstack developper, in the future.
-- ⚡ Fun fact: I started study progammation only after I enetered at Universisdade de São Paulo (USP).
+- ⚡ Fun fact: I started study progammation only after I entered at Universisdade de São Paulo (USP).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
