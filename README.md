@@ -32,7 +32,7 @@
  
  <a href="https://www.facebook.com/guilherme.galdini.7/" target="_blank"><img src ="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  
- <a href="https://t.me/Tosi2506" target="_blank"><img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ <a href="https://t.me/username2015199" target="_blank"><img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
