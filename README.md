@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on a social project that calls 'Projeto Pequeno Cidadão', giving math classes for children in situacion of social vulnerability.
 - 🌱 I’m currently learning Python, C, Javascript, SQL.
 - 🤔 I’m looking for help with learn back-end, front-end languages, for get into a Fullstack developper, in the future.
-- ⚡ Fun fact: I started study progammation because I ply League of Legends :P.
+- ⚡ Fun fact: I started study progammation because I played League of Legends :P.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
