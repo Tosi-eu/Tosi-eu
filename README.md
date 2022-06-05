@@ -2,6 +2,14 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<p align="center">
+  <a href="https://github.com/pwdrc" target="_blank">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Welcome%20to%20my%20github,%20welcome to my little world%22)%20💻&width=1000&height=75" width="1000">
+  </a>
+</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
    My name is Guilherme Tosi, and i'm undergraduating in Information Systems at Universidade de São Paulo (USP), nowadays in 3th semester (second year in the course).
  
   I started study progammation only when I started study at USP, and now, my wills are learn Python, C, Javascript, but more than this, I want to learn languages
