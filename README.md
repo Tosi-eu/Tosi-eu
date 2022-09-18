@@ -3,8 +3,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <a href="https://github.com/Tosiapenas" target="_blank">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Welcome%20to%20my%20github,%20welcome to my little world%22)%20💻&width=1000&height=75" width="1000">
+  <a href="https://github.com/pwdrc" target="_blank">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Welcome%20to%20my%20github%22)%20💻&width=700&height=75" width="700">
   </a>
 </p>
 
