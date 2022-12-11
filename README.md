@@ -21,17 +21,17 @@
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on a social project that calls 'Projeto Pequeno Cidadão', giving math classes for children in situacion of social vulnerability.
-- 🌱 I’m currently learning Python, C, Javascript, SQL.
+- 🔭 I’m currently working in a startup called 'Cafézinho', as web developper
+- 🌱 I’m currently learning Python, MySQL, PHP, JS and Jquery.
 - 🤔 I’m looking for help with learn back-end, front-end languages, for get into a Fullstack developper, in the future.
 - ⚡ Fun fact: I started study progammation because I played League of Legends :P.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-  <a href="https://github.com/Tosiapenas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tosiapenas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tosiapenas&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Tosi-eu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?usernameTosi-eu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tosi-eu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -42,7 +42,7 @@
  
  <a href = "mailto:galdiniguilherme@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- <a href="https://instagram.com/tosiapenas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/tosi.eu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  <a href="https://wa.me/5519996380863" target="_blanck"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
