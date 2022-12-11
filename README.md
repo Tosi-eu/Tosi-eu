@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://github.com/Tosi-eu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?usernameTosi-eu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tosi-eu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tosi-eu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
