@@ -24,7 +24,7 @@
 - 🔭 I’m currently working in a startup called 'Cafézinho', as web developper
 - 🌱 I’m currently learning Python, MySQL, PHP, JS and Jquery.
 - 🤔 I’m looking for help with learn back-end, front-end languages, for get into a Fullstack developper, in the future.
-- ⚡ Fun fact: I started study progammation because I played League of Legends :P.
+- ⚡ Fun fact: I started study Computer Sciences because I play League of Legends :P.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
