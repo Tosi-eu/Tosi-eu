@@ -10,19 +10,14 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   My name is Guilherme Tosi, and i'm undergraduating in Information Systems at Universidade de São Paulo (USP), nowadays in 3th semester (second year in the course).
+   My name is Guilherme Tosi, and i'm undergraduating in Information Systems at Universidade de São Paulo (USP)
  
-  I started study progammation only when I started study at USP, and now, my wills are learn Python, C, Javascript, but more than this, I want to learn languages
-  for back end , front end services, for get into one fullstack developer.
-  
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-  Je m'appele Guilherme Tosi, et j'etudie Systems de l'information à l'Université de São Paulo (USP) à São Carlos. Je suis en deuxième année, et actualliment ma volonté est étudier Python, C, Javascript, mais plus que ça, je veux étudier front-end languages, back-end languages, pour entrer dans un développeur full stack, dans le future.
+  Focusing in Microservices and Computing Arch, but I have interests in Python, Bash Script, Java and SQL.
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🌱 I’m currently learning Python, MySQL, PHP, JS and Jquery.
-- 🤔 I’m looking for help with learn back-end, front-end languages, for get into a Fullstack developper, in the future.
+- 🌱 I’m currently learning Python and Bash Script
+- 🤔 I’m looking for help with learn back-end and high-performace computing
 - ⚡ Fun fact: I started study Computer Sciences because I play League of Legends :P.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
