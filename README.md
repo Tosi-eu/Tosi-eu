@@ -16,7 +16,7 @@
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🌱 I’m currently learning Python and Bash Script
+- 🌱 I’m currently learning Python, JS, HTML and CSS
 - 🤔 I’m looking for help with learn back-end and high-performace computing
 - ⚡ Fun fact: I started study Computer Sciences because I play League of Legends :P.
 
