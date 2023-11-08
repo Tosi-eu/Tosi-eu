@@ -1,4 +1,4 @@
-### Hi stranger  // Bonjour, mon ami 👋
+### Hi stranger  // Olá, amigo 👋
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -11,14 +11,12 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
    My name is Guilherme Tosi, and i'm undergraduating in Information Systems at Universidade de São Paulo (USP)
- 
   Focusing in Microservices and Computing Arch, but I have interests in Python, Bash Script, Java and SQL.
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🌱 I’m currently learning Python, JS, HTML and CSS
-- 🤔 I’m looking for help with learn back-end and high-performace computing
-- ⚡ Fun fact: I started study Computer Sciences because I play League of Legends :P.
+- 🤔 I’m looking for help with learn about Frameworks like Django and ReactJS
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,7 +28,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
- # How to contact me // Comment parler avec moi
+ # How to contact me // Como me contatar
  
  <a href="https://www.linkedin.com/in/guilherme-henrique-galdini-tosi-72865b202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
