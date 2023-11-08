@@ -23,7 +23,10 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🌱 I’m currently learning Python, JS, HTML and CSS
-- 🤔 I’m looking for help with learn about Frameworks like Django and ReactJS
+- 🤔 I’m looking forlearnibg about Frameworks like Django and ReactJS, but focusing on backend stuff
+
+- 🌱 Atualmente estou aprendendo Python, JS, HTML e CSS
+- 🤔 Estou procurando aprender sobre Frameworks como Django e ReactJS, mas focando em coisas sobre back-end
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
