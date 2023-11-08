@@ -10,8 +10,15 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   My name is Guilherme Tosi, and i'm undergraduating in Information Systems at Universidade de São Paulo (USP)
-  Focusing in Microservices and Computing Arch, but I have interests in Python, Bash Script, Java and SQL.
+   My name is Guilherme Tosi, and i'm undergraduating in Information Systems at Universidade de São Paulo (USP), my insterests are mainly:
+     - Backend stuff
+     - Computing Arch
+  Nowadays, i'm in an internship at USP, like IT support.
+
+  Meu nome é Guilherme Tosi, sou graduando em Sistemas de Informação pela Universidade de São Paulo (USP), meus interesses são principalmente:
+     - Backend 
+     - Arquitetura de Computadores
+  Atualmente estou fazendo estágio na USP, como suporte de TI.
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
