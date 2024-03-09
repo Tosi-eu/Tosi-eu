@@ -13,7 +13,7 @@
    My name is Guilherme Tosi, and i'm undergraduating in Information Systems at Universidade de São Paulo (USP), my insterests are mainly:
      - Backend stuff
      - Computing Arch
-  Nowadays, i'm in an internship at USP, like IT support.
+  Nowadays, i'm in an internship at USP, as IT support.
 
   Meu nome é Guilherme Tosi, sou graduando em Sistemas de Informação pela Universidade de São Paulo (USP), meus interesses são principalmente:
      - Backend 
