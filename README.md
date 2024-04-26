@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/pwdrc" target="_blank">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Bem vindo,%20espero%20que%20goste%20do%20meu%20peril!%22)%20💻&width=700&height=75" width="700">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Bem%20vindo,%20espero%20que%20goste%20do%20meu%20peril!%22)%20💻&width=700&height=75" width="700">
   </a>
 </p>
 
