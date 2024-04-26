@@ -1,4 +1,4 @@
-### Hi stranger  // Olá, amigo 👋
+### Olá 👋
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -10,23 +10,11 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   My name is Guilherme Tosi, and i'm undergraduating in Information Systems at Universidade de São Paulo (USP), my insterests are mainly:
-     -> Backend stuff
-     -> Computing Arch
-  Nowadays, i'm in an internship at USP, as IT support.
-
   Meu nome é Guilherme Tosi, sou graduando em Sistemas de Informação pela Universidade de São Paulo (USP), meus interesses são principalmente:
-     - Backend 
-     - Arquitetura de Computadores
-  Atualmente estou fazendo estágio na USP, como suporte de TI.
   
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-- 🌱 I’m currently learning Python, JS, HTML and CSS
-- 🤔 I’m looking forlearnibg about Frameworks like Django and ReactJS, but focusing on backend stuff
-
-- 🌱 Atualmente estou aprendendo Python, JS, HTML e CSS
-- 🤔 Estou procurando aprender sobre Frameworks como Django e ReactJS, mas focando em coisas sobre back-end
+     - Desenvolvimento Fullstack, no momento apredendo sobre frameworks(com ênfase em ReactJS e Spring Boot)
+     - Suporte Técnico em TI(n1). com foco em ambientes Linux, mas estou aprendendo sobre ambiente Windows também
+     - Interação Humano-Comuputador, com foco em acessibilidade
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
