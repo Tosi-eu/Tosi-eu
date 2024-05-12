@@ -1,20 +1,20 @@
-### Olá 👋
+### Olá👋
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <a href="https://github.com/pwdrc" target="_blank">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Bem%20vindo,%20espero%20que%20goste%20do%20meu%20peril!%22)%20💻&width=700&height=75" width="700">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Bem%20vindo,%20espero%20que%20goste%20do%20meu%20perfil!%22)%20💻&width=700&height=75" width="700">
   </a>
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  Meu nome é Guilherme Tosi, sou graduando em Sistemas de Informação pela Universidade de São Paulo (USP), meus interesses são principalmente:
+  ## Meu nome é Guilherme Tosi, sou graduando em Sistemas de Informação pela Universidade de São Paulo (USP):
   
      - No momento apredendo sobre framework Django e python no geral
      - Suporte Técnico em TI(n1). com foco em ambientes Linux, mas estou aprendendo sobre ambiente Windows também
-     - Áreas de interesse: Interação Humano-Computador, Inteligência Artificial(ML e DL), Desenvolvimento backend
+     - Interação Humano-Computador, Inteligência Artificial(ML e DL), Desenvolvimento backend
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
