@@ -12,9 +12,9 @@
 
   Meu nome é Guilherme Tosi, sou graduando em Sistemas de Informação pela Universidade de São Paulo (USP), meus interesses são principalmente:
   
-     - Desenvolvimento Fullstack, no momento apredendo sobre frameworks(com ênfase em ReactJS e Spring Boot)
+     - No momento apredendo sobre framework Django e python no geral
      - Suporte Técnico em TI(n1). com foco em ambientes Linux, mas estou aprendendo sobre ambiente Windows também
-     - Interação Humano-Comuputador, com foco em acessibilidade
+     - Áreas de interesse: Interação Humano-Computador, Inteligência Artificial(ML e DL), Desenvolvimento backend
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
