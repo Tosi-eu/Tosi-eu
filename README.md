@@ -12,7 +12,7 @@
 
   ## Meu nome é Guilherme Tosi, sou graduando em Sistemas de Informação pela Universidade de São Paulo (USP):
   
-     - No momento apredendo sobre framework Django e python no geral
+     - No momento estou aprendendo sobre framework Django e python no geral
      - Suporte Técnico em TI(n1) com foco em ambientes Linux, mas estou aprendendo sobre ambiente Windows também
      - Áreas de interesse: Interação Humano-Computador, Inteligência Artificial(ML e DL), Desenvolvimento backend
 
