@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine and Deep Learning, Computer Network, BI**
 
-- 👨‍💻 All of my projects are available at [https://tosi-eu.github.io/Fullstack/DevWeb/trab/](https://tosi-eu.github.io/Fullstack/DevWeb/trab/)
+- 👨‍💻 Some of my projects are available at [https://tosi-eu.github.io/Fullstack/DevWeb/trab/](https://tosi-eu.github.io/Fullstack/DevWeb/trab/)
 
 - 💬 Ask me about **Python, Backend Development, AI**
 
