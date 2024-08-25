@@ -13,8 +13,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://tosi-eu.github.io/Fullstack/DevWeb/trab/](https://tosi-eu.github.io/Fullstack/DevWeb/trab/)
 
-- 💬 Ask me about **Python, Backend Development, AI**
-
 - 📫 How to reach me **galdiniguilherme@usp.br**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1JdrK5P9H1dVckI-UjD0wtjKbT5j-1HJJ/edit?usp=drive_link&ouid=111300009540534989334&rtpof=true&sd=true](https://docs.google.com/document/d/1JdrK5P9H1dVckI-UjD0wtjKbT5j-1HJJ/edit?usp=drive_link&ouid=111300009540534989334&rtpof=true&sd=true)
