@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **galdiniguilherme@usp.br**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1JdrK5P9H1dVckI-UjD0wtjKbT5j-1HJJ/edit?usp=drive_link&ouid=111300009540534989334&rtpof=true&sd=true]
+- 📄 Know about my experiences [https://docs.google.com/document/d/1ngQ8qHTFtODf7mlEGFj7OBHfcNihwwLoOzRuSlISPbU/edit?usp=drive_link)
 
 - ⚡ Fun fact **I started to study IT 'cause I thought that it was equal to playing LOL**
 
