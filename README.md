@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Technician Support](https://sites.google.com/icmc.usp.br/lmacc/)
+- 🔭 I’m currently working as [Software Developer] at CUB
 
 - 🌱 I’m currently learning **Machine and Deep Learning, Computer Network, BI**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1ngQ8qHTFtODf7mlEGFj7OBHfcNihwwLoOzRuSlISPbU/edit?usp=drive_link)
 
-- ⚡ Fun fact **I started to study IT 'cause I thought that it was equal to playing LOL**
+- ⚡ Fun fact **I got into Computer Science thinking I'd start building a League of Legends killer from day one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
