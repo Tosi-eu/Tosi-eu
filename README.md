@@ -7,15 +7,15 @@
   </a>
 </p>
 
-- 🔭 I’m currently working as [Software Developer] at CUB
+- 🔭 I’m currently working as Software Developer at CUB
 
-- 🌱 I’m currently learning **Machine and Deep Learning, Computer Network, BI**
+- 🌱 I’m currently learning **BI, Data Engineering and Software Engineering**
 
 - 👨‍💻 Some of my projects are available at [https://tosi-eu.github.io/Fullstack/DevWeb/trab/](https://tosi-eu.github.io/Fullstack/DevWeb/trab/)
 
 - 📫 How to reach me **galdiniguilherme@usp.br**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ngQ8qHTFtODf7mlEGFj7OBHfcNihwwLoOzRuSlISPbU/edit?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ddO6kWIdKy1OX7eIsGFAb9Fj2ItMLRwu/view?usp=sharing)
 
 - ⚡ Fun fact **I got into Computer Science thinking I'd start building a League of Legends killer from day one**
 
