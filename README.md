@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **BI, Data Engineering and Software Engineering**
 
-- 👨‍💻 Some of my projects are available at [https://tosi-eu.github.io/Fullstack/DevWeb/trab/](https://tosi-eu.github.io/Fullstack/DevWeb/trab/)
+- 👨‍💻 Some of my projects are available at https://tosi-eu.github.io/Fullstack/DevWeb/trab/](https://tosi-eu.github.io/Fullstack/DevWeb/trab/
 
 - 📫 How to reach me **galdiniguilherme@usp.br**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ddO6kWIdKy1OX7eIsGFAb9Fj2ItMLRwu/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1ddO6kWIdKy1OX7eIsGFAb9Fj2ItMLRwu/view?usp=sharing
 
 - ⚡ Fun fact **I got into Computer Science thinking I'd start building a League of Legends killer from day one**
 
