@@ -103,26 +103,3 @@ Backend Software Engineer • Data Engineering • AI Research (Academic)
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=tosi-eu&layout=compact" 
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tosi-eu&show_icons=true" 
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tosi-eu" 
-    alt="GitHub Streak"
-  />
-</p>
